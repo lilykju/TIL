@@ -2,7 +2,7 @@
 
 ```
   p {
-    transition : transition-property transition-duration transition-timing-function transition-delay;
+    transition : transition-property transition-duration (transition-timing-function) (transition-delay);
   }
   
   p:state {
