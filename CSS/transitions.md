@@ -16,7 +16,7 @@
 ## transition-timing-function
 
   - linear : 시작부터 종료까지 동일한 속도.
-  - ease : 극초반지점은 느리고, 시작지점은 빠르고, 종료지점은 느린 속도.
+  - ease : 극초반지점과 종료지점 느린 속도.
   - ease-in : 시작지점이 느린 속도
   - ease-out : 종료지점이 느린 속도. 
   - ease-in-out : 시작과 종료지점이 느린 속도.
