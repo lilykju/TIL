@@ -198,12 +198,8 @@ https://github.com/lilykju/TIL
 
 `**Quoting code**`
 
-                    **Quoting code**
-
 ```
 `**Quoting code**`
-
-(tab)(tab)(2번 이상)**Quoting code**
 ```
 
 ## 11. 코드 블럭
@@ -216,6 +212,9 @@ Quoting Block
 Quoting Block
 #h1
 ~~~
+          
+    **Quoting code**
+
 ``````
 `````
 ```(3개 이상)(위 아래 갯수 동일)
@@ -226,5 +225,7 @@ Quoting Block
 Quoting Block
 #h1
 ~~~
+      
+(tab 2번 이상)(또는 space 4번 이상)**Quoting code**
 `````
 ``````
